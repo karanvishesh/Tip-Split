@@ -1,3 +1,6 @@
+![ts1](https://user-images.githubusercontent.com/66847518/122926584-a490db80-d385-11eb-82b1-d98b815ece79.jpg)
+![ts2](https://user-images.githubusercontent.com/66847518/122926592-a8246280-d385-11eb-8e93-4637db0a5cc9.jpg)
+![ts3](https://user-images.githubusercontent.com/66847518/122926612-ad81ad00-d385-11eb-85bb-343a6ab0b113.jpg)
 
 # Tip&Split
 
