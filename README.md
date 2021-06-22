@@ -4,7 +4,7 @@
 
 # Tip&Split
 
-A new Flutter project.This project aims to calculate
+A new Flutter project.This project aims to calculate the split 
 users BMI by taking input of their age,weight and height.This app is purely based on flutter and can run of both android and ios.
 The main motive of the app is to provide the user a useful app along with some great UI so the main focus of the app is it's UI.
 
